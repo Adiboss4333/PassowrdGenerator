@@ -1,2 +1,2 @@
 *.jar linguist-language=Java
-*.md linguist-language=Markup
+*.md linguist-language=bash
